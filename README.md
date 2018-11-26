@@ -25,5 +25,6 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Back-end
+API REST de produtos utilizando Spring Boot:
+https://github.com/Brenno-Daniel/spring-boot-apirest
